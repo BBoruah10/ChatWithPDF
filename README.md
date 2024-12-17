@@ -17,7 +17,9 @@ My Awesome Project is a powerful tool that simplifies your [task to gain informa
 - 🔧 Feature 3: Highly customizable
 
 ## 📸 Screenshots
-![Screenshot](https://via.placeholder.com/800x400)
+![Screenshot](https://github.com/BBoruah10/ChatWithPDF/blob/main/Screenshot%202024-12-17%20232430.png)
+AFTER UPLOADING FILES:
+![Screenshot](https://github.com/BBoruah10/ChatWithPDF/blob/main/Screenshot%202024-12-17%20232430.png)
 
 ## 💾 Installation
 1. streamlit
